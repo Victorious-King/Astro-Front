@@ -7325,7 +7325,7 @@ button.accordion-button {
 }
 
 .tf-section.live-auctions.live-auctions-style7 .themesflat-container{
-    width: 1504px;
+    /* width: 1504px; */
 }
 
 .sc-card-collection.style-2.sc-card-style7 .card-bottom .author .infor span {
@@ -7526,8 +7526,8 @@ button.accordion-button {
 }
 
 .side-bar.item .widget-category .btn-checkbox {
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
     display: flex;
     display: -webkit-box;  
     display: -moz-box;      
@@ -7538,7 +7538,7 @@ button.accordion-button {
 }
 
 .side-bar.item .widget-category .btn-checkbox:after {
-    font-size: 15px;
+    font-size: 22px;
     position: relative;
     left: 0;
 }
@@ -8352,4 +8352,35 @@ button.accordion-button {
 
 .Toastify__toast-body {
     font-size: 1.6rem;
+}
+
+.stickyfilter {
+    position: sticky;
+    top: 120px;
+    z-index: 300;
+    align-self: flex-start;
+
+}
+
+.filterclosebtn{
+    display: none;
+}
+
+.filterhoverbtn{
+    display: none;
+}
+
+.filtersetbtn{
+    display: block;
+    position: inherit;
+}
+
+.filtersetbtn button:hover,
+.filterhoverbtn:hover{
+    /* color: var(--primary-color); */
+	background-color: var(--primary-color4);
+}
+
+.filter_hide{
+    display: block;
 }
