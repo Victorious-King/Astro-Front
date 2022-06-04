@@ -3030,13 +3030,13 @@ section.today-picks {
 .dropdown>a {
     position             : relative;
     display              : inline-block;
-    padding              : 12px 25px 10px 16px;
+    padding              : 15px 25px 15px 16px;
     min-width            : 142px;
     border-radius        : 6px;
     -moz-border-radius   : 6px;
     -webkit-border-radius: 6px;
     background           : #f8f8f8;
-    font-size            : 15px;
+    font-size            : 17px;
     line-height          : 24px;
     color                : var(--primary-color2);
     font-weight          : 400;
@@ -3103,7 +3103,7 @@ section.today-picks {
     border-top        : 0.5px solid rgba(122, 121, 138, 0.1);
     background        : #f8f8f8;
     width             : 100%;
-    padding           : 9px 10px 8px 16px;
+    padding           : 14px 10px 14px 16px;
     list-style        : none;
     display           : block;
     margin            : 0;
@@ -3172,7 +3172,7 @@ section.today-picks {
     -ms-transition    : all 0.3s ease;
     -o-transition     : all 0.3s ease;
     transition        : all 0.3s ease;
-    font-size         : 13px;
+    font-size         : 17px;
     line-height       : 20px;
     color             : var(--primary-color4);
     font-weight       : 400;
@@ -8375,12 +8375,16 @@ button.accordion-button {
     position: inherit;
 }
 
-.filtersetbtn button:hover,
-.filterhoverbtn:hover{
+.filtersetbtn button:hover, .filtersetbtn button:focus,
+.filterhoverbtn:hover, .filterhoverbtn:focus{
     /* color: var(--primary-color); */
 	background-color: var(--primary-color4);
 }
 
 .filter_hide{
     display: block;
+}
+
+.box-epxlore .infinite-scroll-component__outerdiv {
+    width: 100%;
 }
