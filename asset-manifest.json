@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/static/js/main.bbaf1556.chunk.js",
-    "main.js.map": "/static/js/main.bbaf1556.chunk.js.map",
+    "main.js": "/static/js/main.7f8a5d8d.chunk.js",
+    "main.js.map": "/static/js/main.7f8a5d8d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1fcf69b9.js",
     "runtime-main.js.map": "/static/js/runtime-main.1fcf69b9.js.map",
     "static/css/2.e7e63dd2.chunk.css": "/static/css/2.e7e63dd2.chunk.css",
-    "static/js/2.e39704f1.chunk.js": "/static/js/2.e39704f1.chunk.js",
-    "static/js/2.e39704f1.chunk.js.map": "/static/js/2.e39704f1.chunk.js.map",
+    "static/js/2.f433ea47.chunk.js": "/static/js/2.f433ea47.chunk.js",
+    "static/js/2.f433ea47.chunk.js.map": "/static/js/2.f433ea47.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7e63dd2.chunk.css.map": "/static/css/2.e7e63dd2.chunk.css.map",
     "static/css/main.d87cbb72.chunk.css.map": "/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.e39704f1.chunk.js.LICENSE.txt": "/static/js/2.e39704f1.chunk.js.LICENSE.txt",
+    "static/js/2.f433ea47.chunk.js.LICENSE.txt": "/static/js/2.f433ea47.chunk.js.LICENSE.txt",
     "static/media/AstroMarket.281c92b5.png": "/static/media/AstroMarket.281c92b5.png",
     "static/media/avt-2.dfc4bfc2.jpg": "/static/media/avt-2.dfc4bfc2.jpg",
     "static/media/bg-gradient1.ea9b8bf6.png": "/static/media/bg-gradient1.ea9b8bf6.png",
@@ -30,7 +30,6 @@
     "static/media/image-box-11.fefab7f1.jpg": "/static/media/image-box-11.fefab7f1.jpg",
     "static/media/image-box-21.641e26a7.jpg": "/static/media/image-box-21.641e26a7.jpg",
     "static/media/image-box-6.e06e25a4.jpg": "/static/media/image-box-6.e06e25a4.jpg",
-    "static/media/images-item-details.3492aaa0.jpg": "/static/media/images-item-details.3492aaa0.jpg",
     "static/media/img_item1.4d7ac097.png": "/static/media/img_item1.4d7ac097.png",
     "static/media/img_item10.3101f6ae.png": "/static/media/img_item10.3101f6ae.png",
     "static/media/img_item11.d9d66058.png": "/static/media/img_item11.d9d66058.png",
@@ -49,13 +48,14 @@
     "static/media/logo.e35b93ee.png": "/static/media/logo.e35b93ee.png",
     "static/media/logo_dark.a9c37fe9.png": "/static/media/logo_dark.a9c37fe9.png",
     "static/media/near-wallet-icon.png": "/static/media/near-wallet-icon.9a531c41.png",
+    "static/media/newverified.e3c280f4.svg": "/static/media/newverified.e3c280f4.svg",
     "static/media/option1_bg_profile.ed388b8c.jpg": "/static/media/option1_bg_profile.ed388b8c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1fcf69b9.js",
     "static/css/2.e7e63dd2.chunk.css",
-    "static/js/2.e39704f1.chunk.js",
+    "static/js/2.f433ea47.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.bbaf1556.chunk.js"
+    "static/js/main.7f8a5d8d.chunk.js"
   ]
 }

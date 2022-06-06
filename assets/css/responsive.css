@@ -210,6 +210,12 @@
 
 }
 
+@media only screen and (min-width: 1199px) {
+  .col-box-20 {
+    flex: 0 0 auto;
+    width: 20% !important;
+  }
+}
 @media only screen and (max-width: 1199px) {
   .sc-card-collection .card-bottom,
   .tf-item-details .content-right .meta-item-details .item {
@@ -295,7 +301,7 @@
   }
 
   .box-epxlore .sc-card-product {
-    width: 48%;
+    width: 22%;
   }
   
   .sub-title.pad-400{

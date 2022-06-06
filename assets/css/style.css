@@ -3364,6 +3364,7 @@ header{
 	display: flex;
     flex-flow: row wrap;
     box-sizing: border-box;
+    padding-top: 25px;
 }
 
 .infinite-scroll-grid .fl-item {
