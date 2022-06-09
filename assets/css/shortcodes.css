@@ -2006,11 +2006,10 @@
 .flat-title-page.inner {
     padding        : 139px 0 20px;
     position       : relative;
-    background     : url(../images/backgroup-secsion/img_bg_page_title_inner.jpg) center center no-repeat;
-    background-size: cover;
+    background: linear-gradient( 227.3deg, #8A208C 0%, #181B81 100.84%);
 }
 .is_dark .flat-title-page.inner {
-    background     : url(../images/backgroup-secsion/img_bg_page_title_dark.jpg) center center no-repeat;
+    background     : url(../images/backgroup-secsion/bg-h7.jpg) center center no-repeat;
     background-size: cover;
 }
 .page-title-heading .heading {
@@ -8480,4 +8479,8 @@ button.accordion-button {
     width        : auto;
     /* margin-bottom: 30px; */
     background: var(--primary-color);
+}
+
+.apexcharts-legend .apexcharts-legend-text{
+    color: #7a798a !important;
 }
