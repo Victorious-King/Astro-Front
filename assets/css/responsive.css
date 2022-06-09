@@ -514,7 +514,7 @@
     width: 100%;
   }
   .home-7 .flat-slider .swiper {
-    display: none;
+    /* display: none; */
   }
   .flat-title-page.style3 {
     padding: 140px 0;
@@ -1459,11 +1459,24 @@
   .mysuperavatar{
     height: 70px !important;
     width: 70px !important;
-    margin-top: -40px;
+    margin-top: -40px !important;
   }
     
   .mysocial{
-    margin-top: -50px;
+    margin-top: -30px;
+  }
+
+  .astro-avatar-row{
+    margin: -50px 0px 40px !important;
+  }
+
+  .astro-avatar-left{
+      text-align: right;
+      padding-right: 40px !important;
+  }
+
+  .astro-avatar-right{
+      padding-left: 40px !important;
   }
 
   .is_dark .tab-authors .author-profile,
