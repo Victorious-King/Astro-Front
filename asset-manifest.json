@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/static/js/main.20ca2c63.chunk.js",
-    "main.js.map": "/static/js/main.20ca2c63.chunk.js.map",
+    "main.js": "/static/js/main.c0a20ff5.chunk.js",
+    "main.js.map": "/static/js/main.c0a20ff5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1fcf69b9.js",
     "runtime-main.js.map": "/static/js/runtime-main.1fcf69b9.js.map",
     "static/css/2.e7e63dd2.chunk.css": "/static/css/2.e7e63dd2.chunk.css",
-    "static/js/2.9b5103c9.chunk.js": "/static/js/2.9b5103c9.chunk.js",
-    "static/js/2.9b5103c9.chunk.js.map": "/static/js/2.9b5103c9.chunk.js.map",
+    "static/js/2.481aff46.chunk.js": "/static/js/2.481aff46.chunk.js",
+    "static/js/2.481aff46.chunk.js.map": "/static/js/2.481aff46.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7e63dd2.chunk.css.map": "/static/css/2.e7e63dd2.chunk.css.map",
     "static/css/main.d87cbb72.chunk.css.map": "/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.9b5103c9.chunk.js.LICENSE.txt": "/static/js/2.9b5103c9.chunk.js.LICENSE.txt",
+    "static/js/2.481aff46.chunk.js.LICENSE.txt": "/static/js/2.481aff46.chunk.js.LICENSE.txt",
     "static/media/AstroMarket.281c92b5.png": "/static/media/AstroMarket.281c92b5.png",
     "static/media/avt-2.dfc4bfc2.jpg": "/static/media/avt-2.dfc4bfc2.jpg",
     "static/media/bg-gradient1.ea9b8bf6.png": "/static/media/bg-gradient1.ea9b8bf6.png",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.1fcf69b9.js",
     "static/css/2.e7e63dd2.chunk.css",
-    "static/js/2.9b5103c9.chunk.js",
+    "static/js/2.481aff46.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.20ca2c63.chunk.js"
+    "static/js/main.c0a20ff5.chunk.js"
   ]
 }
