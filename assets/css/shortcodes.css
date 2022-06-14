@@ -1734,7 +1734,7 @@
 -------------------------------------------------------------- */
 .flat-title-page {
     position       : relative;
-    background     : url(../images/backgroup-secsion/img_bg_page_title.jpg) center center no-repeat;
+    background     : url(../images/BG/img_bg_page_title.jpg) center center no-repeat;
     background-size: cover;
     padding: 100px 0 20px;
 }
@@ -2009,7 +2009,7 @@
     background: linear-gradient( 227.3deg, #8A208C 0%, #181B81 100.84%);
 }
 .is_dark .flat-title-page.inner {
-    background     : url(../images/backgroup-secsion/bg-h7.jpg) center center no-repeat;
+    background     : url(../images/BG/bg-h7.jpg) center center no-repeat;
     background-size: cover;
 }
 .page-title-heading .heading {
@@ -6702,7 +6702,7 @@ button.accordion-button {
 
 .flat-title-page.style3{
     padding: 105px 0 0;
-    background: url(../images/backgroup-secsion/bg-h7.jpg) center center no-repeat;
+    background: url(../images/BG/bg-h7.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -6886,7 +6886,7 @@ button.accordion-button {
     margin-right: 8px;
 }
 .home-7 .sc-card-product {
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 .sc-card-product.style-h7 .meta-info .author .info h6 {
