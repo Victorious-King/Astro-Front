@@ -4780,14 +4780,14 @@ button.accordion-button {
 }
 
 .flat-accordion2 .accordion-item .accordion-button.collapsed::after{
-	content: '\f067';
+	content: '\f067' !important;
 }
 
 .flat-accordion2 .accordion-item .accordion-button::after{
-    content: '\f068';
+    content: '\f068' !important;
     font-family: "Font Awesome 5 Pro" !important;
-	right: 0;
-	top: 3px;
+	right: 10px;
+	top: 10px;
     position: absolute;
     color: #5142FC;
     font-size: 15px;
