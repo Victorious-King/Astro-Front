@@ -921,6 +921,10 @@
   .tab-authors .author-profile {
     display: block !important;
   }
+  .main-logo img {
+    width: 175px !important;
+    height: 56px !important;
+  }
   .col-box-83, .col-box-17 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 100%;
