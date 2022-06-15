@@ -8484,3 +8484,7 @@ button.accordion-button {
 .apexcharts-legend .apexcharts-legend-text{
     color: #7a798a !important;
 }
+
+.apexcharts-tooltip{
+    color: #7A798A;
+}
