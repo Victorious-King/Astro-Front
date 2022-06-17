@@ -247,7 +247,7 @@
 
   .table-ranking .th-title,
   .table-ranking .item{
-    width: 1200px;
+    /* width: 1200px; */
   }
 
   .table-ranking .th-title .column1{

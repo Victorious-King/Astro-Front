@@ -1235,9 +1235,9 @@
 
 .sc-card-product .card-media .button-place-bid {
     position          : absolute;
-    top               : 60%;
+    top               : 15%;
     transform         : translateY(-50%);
-    left              : 0;
+    left              : -65%;
     right             : 0;
     text-align        : center;
     opacity           : 0;
@@ -1248,9 +1248,14 @@
     transition        : all 0.4s ease;
 }
 
+.sc-card-product:hover .ticket_cus{
+    display: inline;
+}
+
 .sc-card-product:hover .card-media .button-place-bid,
 .sc-card-product .card-media.active .button-place-bid {
-    top             : 50%;
+    top             : 15%;
+    left            : -40%;
     opacity         : 1;
     transition-delay: 0.1s;
 }
@@ -4054,7 +4059,7 @@ section.today-picks {
 }
 
 .tf-item-details .content-right .themesflat-tabs .bid-history-list li .sc-author-box.style-2 {
-    align-items: flex-start;
+    /* align-items: flex-start; */
 }
 
 .tf-item-details .content-right .themesflat-tabs li .author-avatar {
@@ -4146,7 +4151,7 @@ section.today-picks {
 }
 
 .tf-item-details .content-right .themesflat-tabs .react-tabs__tab-panel::-webkit-scrollbar-thumb,
-.home-8 .side-bar::-webkit-scrollbar {
+.home-8 .side-bar::-webkit-scrollbar-thumb {
     background-color: #8A8AA0;
     height          : 30px;
     border-radius   : 100px;

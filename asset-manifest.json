@@ -1,19 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d7a6067b.css",
-    "main.js": "/static/js/main.83204ba1.js",
+    "main.js": "/static/js/main.61517382.js",
     "static/media/bg-gradient1.png": "/static/media/bg-gradient1.ea9b8bf6d8ab79c28eb0.png",
     "static/media/bg-gradient2.png": "/static/media/bg-gradient2.0c780f516f9376180099.png",
+    "static/media/logo_.png": "/static/media/logo_.656f59864efd2bde246d.png",
     "static/media/bg-gradient3.png": "/static/media/bg-gradient3.b45d2f2c22fee5b49962.png",
     "static/media/AstroMarket.png": "/static/media/AstroMarket.281c92b5d8b431568ba8.png",
     "static/media/near-wallet-icon.png": "/static/media/near-wallet-icon.9a531c414c8ecf78b8a3.png",
     "static/media/logo1.png": "/static/media/logo1.8c4a8705a3e1536245b1.png",
     "static/media/avt-2.jpg": "/static/media/avt-2.dfc4bfc26b7449a3d88d.jpg",
-    "static/media/logo1-split.png": "/static/media/logo1-split.6a697d90ac83441c777a.png",
-    "static/media/logo.png": "/static/media/logo.90bf5b2652c23b12ee31.png",
     "static/media/option1_bg_profile.jpg": "/static/media/option1_bg_profile.ed388b8ca316a6f98759.jpg",
-    "static/media/logo-split.png": "/static/media/logo-split.6791d59b92f378b96c75.png",
-    "static/media/logo_dark.png": "/static/media/logo_dark.a9c37fe9b15ce3d612ae.png",
     "static/media/collection-item-16.jpg": "/static/media/collection-item-16.9b236784be3e55b0071f.jpg",
     "static/media/card-item8.jpg": "/static/media/card-item8.7093aa57b2e7a98d0d7d.jpg",
     "static/media/image-box-6.jpg": "/static/media/image-box-6.e06e25a42bd896ef0f54.jpg",
@@ -22,10 +19,10 @@
     "static/media/imgactivity2.jpg": "/static/media/imgactivity2.e87034af7b8c1824c812.jpg",
     "index.html": "/index.html",
     "main.d7a6067b.css.map": "/static/css/main.d7a6067b.css.map",
-    "main.83204ba1.js.map": "/static/js/main.83204ba1.js.map"
+    "main.61517382.js.map": "/static/js/main.61517382.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a6067b.css",
-    "static/js/main.83204ba1.js"
+    "static/js/main.61517382.js"
   ]
 }
