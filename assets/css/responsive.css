@@ -156,6 +156,18 @@
   .tab-authors .author-profile {
     padding-bottom: 6.5%;
   }
+  
+  .question-form{
+    display: none;
+  }
+  
+  .search-bar-second {
+	  display: block;
+  }
+
+  .header_1.header_2 #main-nav{
+    left: 25%;
+  }
 }
 @media only screen and (max-width: 1366px) {
   .swiper-button-next,
@@ -447,10 +459,6 @@
     display: none;
   }
 
-  .question-form{
-	width: 50%;
-	left: 23%;
-  }
   .header_2 #main-nav>ul>li {
     float: left;
     padding: 5px 13px 5px 13px;
