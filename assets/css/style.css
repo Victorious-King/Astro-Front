@@ -599,7 +599,26 @@ input[type="color"] {
     padding: 13px 15px;
     width: 100%;
     background: transparent;
-    color: #8A8AA0;
+    color: black;
+    /* color: #8A8AA0; */
+}
+
+.is_dark textarea,
+.is_dark input[type="text"],
+.is_dark input[type="password"],
+.is_dark input[type="datetime"],
+.is_dark input[type="datetime-local"],
+.is_dark input[type="date"],
+.is_dark input[type="month"],
+.is_dark input[type="time"],
+.is_dark input[type="week"],
+.is_dark input[type="number"],
+.is_dark input[type="email"],
+.is_dark input[type="url"],
+.is_dark input[type="search"],
+.is_dark input[type="tel"],
+.is_dark input[type="color"] {
+    color: white;
 }
 
 /* Input focus */
@@ -623,6 +642,7 @@ input[type="color"]:focus {
     -webkit-box-shadow: none;
     -moz-box-shadow   : none;
     box-shadow        : none;
+    color: black;
 }
 
 textarea::placeholder,

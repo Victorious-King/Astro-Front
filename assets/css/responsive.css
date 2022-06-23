@@ -45,6 +45,31 @@
     padding: 0 0;
   }
 
+  .sc-btn-top .sc-button{
+    padding: 0 !important;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+
+  #site-header .sc-button span{
+    font-size: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 22px;
+  }
+
+  #site-header .sc-button span::before{
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
   .tab-authors .menu-tab .tablinks {
     padding-left: 50px;
     padding-right: 50px;
@@ -275,21 +300,6 @@
     padding-right: 30px;
   }
 
-  #site-header .sc-button span{
-    font-size: 0px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    height: 22px;
-  }
-
-  #site-header .sc-button span::before{
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
   .tab-authors .author-profile .widget-social {
     flex-direction: row-reverse;
   }
@@ -383,15 +393,6 @@
     right: 15px;
   }
 
-  .sc-btn-top .sc-button{
-    padding: 0 !important;
-    width: 48px;
-    height: 48px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-  }
   .tablet-30 {
     margin-bottom: 30px !important;
 }
@@ -1475,7 +1476,7 @@
   }
     
   .mysocial{
-    margin-top: -30px;
+    margin-top: -20px;
   }
 
   .astro-avatar-row{
@@ -1511,10 +1512,6 @@
 
   .header-search {
     margin-right: 10px !important;
-  }
-  
-  .search-bar-second {
-	display: block;
   }
   
   .question-form,

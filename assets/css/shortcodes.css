@@ -3743,7 +3743,7 @@ section.today-picks {
 }
 
 .mysocial{
-    margin-top: -60px;
+    margin-top: -45px;
 }
 
 .authors-2 .react-tabs__tab.react-tabs__tab--selected {
@@ -8504,4 +8504,21 @@ button.accordion-button {
 
 .is_dark .ranking-box{
     background-color: #343444;
+}
+
+.dark_img {
+    display: inline;
+}
+
+.white_img {
+    display: none;
+}
+
+
+.is_dark .dark_img {
+    display: none;
+}
+
+.is_dark .white_img {
+    display: inline;
 }
