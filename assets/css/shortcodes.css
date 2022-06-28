@@ -1319,7 +1319,7 @@
 .sc-card-collection {
     background   : var(--primary-color);
     border-radius: 10px;
-    padding      : 20px;
+    padding      : 5px;
     margin-bottom: 30px;
     box-shadow: 0px 3px 16px rgba(47, 83, 109, 0.12);
 }
@@ -7304,7 +7304,7 @@ button.accordion-button {
 
 .sc-card-collection.style-2 .card-media-h7 {
     border-radius: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     overflow: hidden;
 }
 
@@ -7320,7 +7320,7 @@ button.accordion-button {
     display: -ms-flexbox;   
     display: -webkit-flex; 
     justify-content: space-between;
-    margin-bottom: 16px;
+    margin-bottom: 0px;
 }
 
 .sc-card-collection.style-2 .card-media-h7.style2 img {
@@ -7359,7 +7359,7 @@ button.accordion-button {
 
 .sc-card-collection.style-2.sc-card-style7 .sc-author-box{
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -7377,12 +7377,12 @@ button.accordion-button {
     display: -webkit-flex; 
     align-items: center;
     justify-content: center;
-    padding: 6px;
+    padding: 3px;
 }
 
 .sc-card-collection.style-2.sc-card-style7 .sc-author-box .author-avatar img{
-    width: 112px;
-    height: 112px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
 }
 
