@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c0ae369.css",
-    "main.js": "/static/js/main.17547637.js",
+    "main.js": "/static/js/main.c1eaa6d4.js",
     "static/media/bg-gradient1.png": "/static/media/bg-gradient1.ea9b8bf6d8ab79c28eb0.png",
     "static/media/bg-gradient2.png": "/static/media/bg-gradient2.0c780f516f9376180099.png",
     "static/media/235white.png": "/static/media/235white.0a5f6a66f707b6f4adc9.png",
@@ -11,7 +11,6 @@
     "static/media/AstroMarket.png": "/static/media/AstroMarket.281c92b5d8b431568ba8.png",
     "static/media/near-wallet-icon.png": "/static/media/near-wallet-icon.9a531c414c8ecf78b8a3.png",
     "static/media/avt-2.jpg": "/static/media/avt-2.dfc4bfc26b7449a3d88d.jpg",
-    "static/media/option1_bg_profile.jpg": "/static/media/option1_bg_profile.ed388b8ca316a6f98759.jpg",
     "static/media/collection-item-16.jpg": "/static/media/collection-item-16.9b236784be3e55b0071f.jpg",
     "static/media/card-item8.jpg": "/static/media/card-item8.7093aa57b2e7a98d0d7d.jpg",
     "static/media/image-box-6.jpg": "/static/media/image-box-6.e06e25a42bd896ef0f54.jpg",
@@ -20,10 +19,10 @@
     "static/media/imgactivity2.jpg": "/static/media/imgactivity2.e87034af7b8c1824c812.jpg",
     "index.html": "/index.html",
     "main.9c0ae369.css.map": "/static/css/main.9c0ae369.css.map",
-    "main.17547637.js.map": "/static/js/main.17547637.js.map"
+    "main.c1eaa6d4.js.map": "/static/js/main.c1eaa6d4.js.map"
   },
   "entrypoints": [
     "static/css/main.9c0ae369.css",
-    "static/js/main.17547637.js"
+    "static/js/main.c1eaa6d4.js"
   ]
 }
