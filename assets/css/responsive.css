@@ -918,6 +918,11 @@
 
 }
 @media only screen and (max-width: 767px) {
+  .top-collection-box{
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(2, minmax(0px, 1fr));
+  }
+
   .form-infor-profile,
   .form-upload-profile .option-profile,
   .tab-authors .author-profile .widget-social ul,
@@ -1439,6 +1444,16 @@
 .tf-activity.s1 .sc-card-activity .content {
   flex-wrap: wrap;
 }
+.main-logo img{
+  width: 58px !important;
+  height: 50px !important;
+}
+.logo-dark , .logo-light {
+  display: none !important;
+}
+.logo-small {
+  display: block;
+}
 .themesflat-tabs .react-tabs__tab {
     position    : relative;
     font-weight : 600;
@@ -1593,7 +1608,13 @@
 }
 
 @media only screen and (max-width: 400px) {
-
+  .top-collection-box{
+    grid-template-rows: repeat(12, 1fr);
+    grid-template-columns: repeat(1, minmax(0px, 1fr));
+  }
+  .col-cus-12 {
+    width: 100% !important;
+  }
   .sc-card-activity.style-2 .content .media,
   .sc-card-activity.style-2 .content .media img,
   .sc-card-activity .content .media{
