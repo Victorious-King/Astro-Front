@@ -3813,7 +3813,7 @@ section.today-picks {
 }
 
 .tf-item-details .content-left .media {
-    border-radius: 10px;
+    /* border-radius: 10px; */
     overflow     : hidden;
 }
 
